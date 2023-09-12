@@ -1,7 +1,9 @@
-#
+# Project-specific
 *.pptx
 *.pptm
-
+*.RData
+*.Rhistory
+*.yml
 
 
 # Byte-compiled / optimized / DLL files
