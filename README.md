@@ -86,11 +86,13 @@ Evan S.
 
 
 
-## Methods and other sources:
+## Methods sources:
 
 [1] Config file setup and reference:
 	https://www.c-sharpcorner.com/article/configuration-files-in-python/#:~:text=Config%20files%20are%20used%20to,at%20some%20point%2C%20of%20time
 
-[2]
+[2] Install python-snappy in Anaconda, user 4Oh4:
+	https://stackoverflow.com/questions/42979544/how-to-install-snappy-c-libraries-on-windows-10-for-use-with-python-snappy-in-an
 
+[3] 
 
