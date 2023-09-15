@@ -28,22 +28,28 @@ The data used in this project was generated from the sources listed below and is
 
 
 ## Setup:
-### Data Extract:
+### Data Import and Clean:
 	...
 
 
 
 ## Machine Learning Method
-	...
-
+	. 
 
 ### Visualization:
-	... Scatter plot clustering
-	...
+	- Scatter plot clustering of player positions, actual and predicted
+	- Numpy, Matplotlib Circle diagrams
+	- Matplotlib Pareto bar chart
+	
 
+
+# Model Optimization:
+	1) Increase yearly range of data supplied.
+	2) Analyzed weighted affect of input data categories to reduce input dataframe.
+
+---
 
 # Setup Instructions:
-
 ## Cleaning and Loading the Data:
 ```
 1) In the Data collection folder, open and run "..."
@@ -64,6 +70,7 @@ The data used in this project was generated from the sources listed below and is
 6) Confirm all data imported by running SELECT * statements in pgAdmin query window.
 ```
 
+---
 
 
 ## Collaborators:
@@ -78,11 +85,14 @@ Evan S.
 
 
 ## Data sources:
-1) (nflverse github project)
+1) nflverse github:
+	https://github.com/nflverse
 
-2)
+2) nfl-data-py module:
+	https://github.com/cooperdff/nfl_data_py
 
-4)
+4)  fantasy-csv-data github:
+	https://github.com/bendominguez0111/fantasy-csv-data/tree/master/weekly/2021
 
 
 
