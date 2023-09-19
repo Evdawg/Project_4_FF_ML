@@ -43,7 +43,7 @@ The data used in this project was generated from the sources listed below and is
 
 
 ### Visualization:
-	- Open and run "Football_Visual.ipynb"
+	- Open and run "Football_Visual_Final.ipynb"
 		- Radar charts show high-level mean data for Offensive stats for three NFL player positions.
 		- Bar charts provide comparison of yearly Fantasy Points outputs by player position.
 
@@ -52,7 +52,7 @@ The data used in this project was generated from the sources listed below and is
 ---
 ## Project Conclusions:
 - Predictive model accuracy was improved by increasing the quantity of input data and by applying Random Forest Classification.
-- Significant features affected model performance were isolated and visualized.
+- The significant features that affected model performance were isolated and visualized.
 - Initial Logistic Regression modeling was least accurate for the Tight End position.
 
 ---
