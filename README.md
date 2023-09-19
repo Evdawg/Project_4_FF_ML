@@ -16,7 +16,7 @@ The data used in this project was generated from the sources listed below and is
 - Python:
 	modules: sklearn, matplotlib, seaborn, pandas, numpy, nfl-data-py
 	
-	methods: train_test_split, Logistic Regression, data imputation, hyperparameter tuning, predictive model optimization, Unsupervised KMeans clustering, data visualization
+	methods: train_test_split, Logistic Regression, Random Forest Classification, data imputation, hyperparameter tuning, predictive model optimization, Unsupervised KMeans clustering, data visualization
 
 - Git collaboration
 
@@ -62,7 +62,7 @@ Kyle M.
 
 Timothy S.
 
-Travis, S.
+Travis S.
 
 Evan S.
 
